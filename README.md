@@ -27,5 +27,7 @@ client에서 계정 하나를 만들어 접속합니다.
 ![6](https://user-images.githubusercontent.com/71436554/122412231-5adc7580-cfc0-11eb-9209-087f937de72f.png)   
 2번을 누르면 기존 대화 내역을 지울 수 있습니다.(본인 화면만)   
 ![7](https://user-images.githubusercontent.com/71436554/122412239-5ca63900-cfc0-11eb-903f-f7272db99cd9.png)   
-그 외의 키를 누르면 메뉴창이 종료됩니다.   
+그 외의 키를 누르면 메뉴창이 종료됩니다. (문자 포함)   
 ![8](https://user-images.githubusercontent.com/71436554/122412246-5e6ffc80-cfc0-11eb-9575-52dbb553e36a.png)   
+
+닉네임 중복을 허용하고 싶지 않았는데 그 기능을 넣으려면 복잡해져서 구현하지 못했습니다.. 
